@@ -1,0 +1,232 @@
+Installing DataKund  PIP         -2023-09-12 06:22:12
+
+
+DataKundTypePip  PIP         -2023-09-12 06:22:12
+
+
+driverversion116  PIP         -2023-09-12 06:22:12
+
+
+Exception in adding extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:22:12
+
+
+Exception in adding right click extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:22:12
+
+
+Exception in adding Cookies blocker 1st extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:22:12
+
+
+Exception in adding Cookies blocker 2nd extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:22:12
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-09-12 06:22:12
+
+
+Exception in setting agent'user_agent'  PIP         -2023-09-12 06:22:12
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-09-12 06:22:12
+
+
+Install required:-True  PIP         -2023-09-12 06:22:12
+
+
+downloadchrome function  PIP         -2023-09-12 06:22:12
+
+
+Version found from subprocess code116  PIP         -2023-09-12 06:22:12
+
+
+driverversion116  PIP         -2023-09-12 06:22:12
+
+
+Driver Version:-116  PIP         -2023-09-12 06:22:12
+
+
+Exception in Fetching driver links from lambda server'116'  PIP         -2023-09-12 06:22:20
+
+
+Exception in chromedriver   after download -Expecting value: line 1 column 1 (char 0)  PIP         -2023-09-12 06:22:22
+
+
+exception in driver quitinglocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:22:22
+
+
+Exiting script as no driver worked  PIP         -2023-09-12 06:22:22
+
+
+Exception in saving current session idlocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:22:22
+
+
+StartChrome function finished  PIP         -2023-09-12 06:22:22
+
+
+DataKundTypePip  PIP         -2023-09-12 06:22:22
+
+
+driverversion  PIP         -2023-09-12 06:22:22
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-09-12 06:22:22
+
+
+Exception in setting agent'user_agent'  PIP         -2023-09-12 06:22:22
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-09-12 06:22:22
+
+
+Install required:-False  PIP         -2023-09-12 06:22:22
+
+
+Exception in chromedriver   after installation -Message: session not created: This version of ChromeDriver only supports Chrome version 113
+Current browser version is 116.0.5845.180 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+  PIP         -2023-09-12 06:22:29
+
+
+downloading driver again  PIP         -2023-09-12 06:22:29
+
+
+downloadchrome function  PIP         -2023-09-12 06:22:29
+
+
+Version found from subprocess code116  PIP         -2023-09-12 06:22:29
+
+
+driverversion116  PIP         -2023-09-12 06:22:29
+
+
+Driver Version:-116  PIP         -2023-09-12 06:22:29
+
+
+Exception in Fetching driver links from lambda server'116'  PIP         -2023-09-12 06:22:31
+
+
+Driver not installed after downloading 3 times:-Expecting value: line 1 column 1 (char 0)  PIP         -2023-09-12 06:22:32
+
+
+Exiting script as no driver worked  PIP         -2023-09-12 06:22:32
+
+
+Exception in saving current session idlocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:22:32
+
+
+StartChrome function finished  PIP         -2023-09-12 06:22:32
+
+
+Installing DataKund  PIP         -2023-09-12 06:32:29
+
+
+DataKundTypePip  PIP         -2023-09-12 06:32:29
+
+
+driverversion116  PIP         -2023-09-12 06:32:29
+
+
+Exception in adding extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:32:29
+
+
+Exception in adding right click extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:32:29
+
+
+Exception in adding Cookies blocker 1st extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:32:29
+
+
+Exception in adding Cookies blocker 2nd extension:-Path to the extension doesn't exist  PIP         -2023-09-12 06:32:29
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-09-12 06:32:29
+
+
+Exception in setting agent'user_agent'  PIP         -2023-09-12 06:32:29
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-09-12 06:32:29
+
+
+Install required:-True  PIP         -2023-09-12 06:32:29
+
+
+downloadchrome function  PIP         -2023-09-12 06:32:29
+
+
+Version found from subprocess code116  PIP         -2023-09-12 06:32:30
+
+
+driverversion116  PIP         -2023-09-12 06:32:30
+
+
+Driver Version:-116  PIP         -2023-09-12 06:32:30
+
+
+Exception in Fetching driver links from lambda server'116'  PIP         -2023-09-12 06:32:38
+
+
+Exception in chromedriver   after download -Expecting value: line 1 column 1 (char 0)  PIP         -2023-09-12 06:32:42
+
+
+exception in driver quitinglocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:32:42
+
+
+Exiting script as no driver worked  PIP         -2023-09-12 06:32:42
+
+
+Exception in saving current session idlocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:32:42
+
+
+StartChrome function finished  PIP         -2023-09-12 06:32:42
+
+
+DataKundTypePip  PIP         -2023-09-12 06:32:42
+
+
+driverversion  PIP         -2023-09-12 06:32:42
+
+
+Exception in adding Profile path:-'profile_path'  PIP         -2023-09-12 06:32:42
+
+
+Exception in setting agent'user_agent'  PIP         -2023-09-12 06:32:42
+
+
+Exception in saving download folder'download_folder'  PIP         -2023-09-12 06:32:42
+
+
+Install required:-False  PIP         -2023-09-12 06:32:42
+
+
+Exception in chromedriver   after installation -Message: session not created: This version of ChromeDriver only supports Chrome version 113
+Current browser version is 116.0.5845.180 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+  PIP         -2023-09-12 06:32:47
+
+
+downloading driver again  PIP         -2023-09-12 06:32:47
+
+
+downloadchrome function  PIP         -2023-09-12 06:32:47
+
+
+Version found from subprocess code116  PIP         -2023-09-12 06:32:47
+
+
+driverversion116  PIP         -2023-09-12 06:32:47
+
+
+Driver Version:-116  PIP         -2023-09-12 06:32:47
+
+
+Exception in Fetching driver links from lambda server'116'  PIP         -2023-09-12 06:32:51
+
+
+Driver not installed after downloading 3 times:-Expecting value: line 1 column 1 (char 0)  PIP         -2023-09-12 06:32:52
+
+
+Exiting script as no driver worked  PIP         -2023-09-12 06:32:52
+
+
+Exception in saving current session idlocal variable 'driver' referenced before assignment  PIP         -2023-09-12 06:32:52
+
+
+StartChrome function finished  PIP         -2023-09-12 06:32:52
+
+
